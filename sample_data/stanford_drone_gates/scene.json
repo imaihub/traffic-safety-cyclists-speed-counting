@@ -1,0 +1,80 @@
+{
+  "name": "Stanford Drone Dataset - gates/video4 (lower road)",
+  "roi": [
+    [
+      0.0,
+      0.0
+    ],
+    [
+      550.0,
+      0.0
+    ],
+    [
+      550.0,
+      640.0
+    ],
+    [
+      0.0,
+      640.0
+    ]
+  ],
+  "line_a": [
+    [
+      200.0,
+      549.0
+    ],
+    [
+      410.0,
+      549.0
+    ]
+  ],
+  "line_b": [
+    [
+      200.0,
+      399.0
+    ],
+    [
+      410.0,
+      399.0
+    ]
+  ],
+  "direction_a_to_b": "to roundabout",
+  "direction_b_to_a": "from roundabout",
+  "calibration_image_points": [
+    [
+      0.0,
+      0.0
+    ],
+    [
+      550.0,
+      0.0
+    ],
+    [
+      550.0,
+      640.0
+    ],
+    [
+      0.0,
+      640.0
+    ]
+  ],
+  "calibration_world_points": [
+    [
+      0.0,
+      0.0
+    ],
+    [
+      48.5349,
+      0.0
+    ],
+    [
+      48.5349,
+      56.477
+    ],
+    [
+      0.0,
+      56.477
+    ]
+  ],
+  "reference_distance_m": 13.237
+}

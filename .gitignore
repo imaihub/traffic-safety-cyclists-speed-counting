@@ -1,0 +1,25 @@
+# Private data and model files (never publish these)
+dataset/
+*.ckpt
+*.pth
+*.pt
+
+# Outputs
+results/
+runs/
+lightning_logs/
+
+# Python / tools
+.venv/
+__pycache__/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+build/
+dist/
+
+# IDE
+.idea/
+.vscode/
